@@ -1,0 +1,9 @@
+{
+	"name": "Devvfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b92e0e8e-07c4-45eb-af93-d3bdcf7fefbf",
+		"tenantId": "e401b94a-3f04-43a7-b132-c1408093d776"
+	}
+}
