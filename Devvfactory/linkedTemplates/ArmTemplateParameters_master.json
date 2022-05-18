@@ -11,6 +11,9 @@
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://DevvKV.vault.azure.net/"
 		},
+		"SecondGen2_properties_typeProperties_url": {
+			"value": "https://seconddevvgen.dfs.core.windows.net"
+		},
 		"containerUri": {
 			"value": ""
 		},
